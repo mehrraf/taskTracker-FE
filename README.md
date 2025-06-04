@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## ENV Variales
+create env file in root directory .env.local
 REACT_APP_BASE_URL=http://localhost:8080
 
 
