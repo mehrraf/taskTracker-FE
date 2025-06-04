@@ -2,9 +2,9 @@
 
 
 ## ENV Variales
-create env file in root directory .env.local:
+1- Create env file in root directory .env.local:
 
-paste variable
+2- Paste variable
 
 
 REACT_APP_BASE_URL=http://localhost:8080
